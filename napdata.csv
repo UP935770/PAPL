@@ -3,11 +3,11 @@
 2,-,-,-,-,-,-,-,Then you don't need a nap!,-
 3,4,29,17,16,15,-,-,-,What's the time right now? (Input would be hour from 0[midnight] to 23[11pm])
 4,-,-,-,-,-,6,5,Interesting sleep schedule...,Have you slept yet?
-5,-,-,-,-,-,7,-,VERY interesting sleep schedule...,-
-6,-,-,-,-,-,7,-,Interesting,-
+5,7,-,-,-,-,-,-,VERY interesting sleep schedule...,-
+6,7,-,-,-,-,-,-,Interesting,-
 7,-,-,9,-,-,8,23,-,"Do you have anything important to do, such as, work or deadlines to meet?"
 8,-,-,-,-,-,10,11,-,Shouldn't you be getting ready for work right now?
-9,-,-,-,-,-,7,-,"Yes, you should check!",
+9,7,-,-,-,-,-,-,"Yes, you should check!",
 10,-,-,-,-,-,-,-,Why are you like this? You clearly can't take a nap right now,
 11,-,-,-,-,-,12,23,-,"Ok then, anything due in within the next week?"
 12,-,-,-,-,-,13,14,-,Do you need to be up within the next 4 hours?
