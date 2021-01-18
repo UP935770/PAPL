@@ -1,0 +1,35 @@
+0,2,1,-1,-1,-1,-1,-1,-,How tired are you feeling?
+1,0,0,0,0,0,0,0,Then you don't need a nap!,-
+2,3,28,16,15,14,-1,-1,-,What's the time right now?
+3,-1,-1,-1,-1,-1,6,5,Interesting sleep schedule...,Have you slept yet?
+4,6,6,6,6,6,6,6,VERY interesting sleep schedule...,-
+5,6,6,6,6,6,6,6,Interesting,-
+6,8,-1,-1,-1,-1,7,22,-,Do you have anything important to do??
+7,-1,-1,-1,-1,-1,9,10,-,Shouldn't you be getting ready for work right now?
+8,6,6,6,6,6,6,6,Yes you should check!,-
+9,0,0,0,0,0,0,0,Why are you like this? You clearly can't take a nap right now,-
+10,-1,-1,-1,-1,-1,11,22,-,Anything due in within the next week?
+11,-1,-1,-1,-1,-1,12,13,-,Do you need to be up within the next 4 hours?
+12,0,0,0,0,0,0,0,GO TO BED!,-
+13,0,0,0,0,0,0,0,You should be sleeping but since you can't manage your time properly you should take a nap. Set MULTIPLE alarms,-
+14,0,0,0,0,0,0,0,Just go to bed!,-
+15,0,0,0,0,0,0,0,Wait for bedtime!,-
+16,-1,-1,-1,-1,-1,17,21,-,Do you have anything important to be doing?
+17,-1,-1,-1,-1,1,18,21,-,Is it due within the next 3 days?
+18,19,26,-1,-1,-1,-1,-1,You should make a start today. Go for a walk... ,How do you feel now?
+19,0,0,0,0,0,0,0,Problem solved! Sometimes you're just bored or hungry!,-
+20,22,21,-1,-1,-1,-1,-1,-,How was your day today?
+21,0,0,0,0,0,0,0,Take a nap. Take care of yourself and I hope tomorrow is better!,-
+22,-1,-1,-1,-1,-1,24,23,-,Nice! So any plans later today?
+23,0,0,0,0,0,0,0,Then of course you can nap! :),-
+24,-1,-1,-1,-1,-1,23,25,-,Do you trust yourself to get up in time?
+25,-1,-1,-1,-1,-1,26,27,A nap doesn't sound like a good idea... Try eating and having some coffee, Still tired??
+26,0,0,0,0,0,0,0,Well I guess you can rest your eyes for a second. Just make sure to set MULTIPLE alarms and that they're really loud!,-
+27,0,0,0,0,0,0,0,Problem solved. Have fun!,-
+28,-1,-1,-1,-1,-1,29,22,-,Are you at work or school right now?
+29,-1,-1,-1,-1,-1,30,34,-,...Are you at least on a break?
+30,-1,-1,-1,-1,-1,31,34,-,Would your boss be okay with you taking a nap?
+31,-1,-1,-1,-1,-1,32,33,-,Do you have at least 30 minutes to spare?
+32,0,0,0,0,0,0,0,I mean if it's ok with your boss... I don't like this. Set some alarms though,-
+33,0,0,0,0,0,0,0,Then you shouldn't! Go have some coffee. Smh,-
+34,0,0,0,0,0,0,0,DO YOUR WORK!,-
